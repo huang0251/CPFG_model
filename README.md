@@ -1,6 +1,6 @@
 # A Controllable Perceptual Feature Generative Model for Melody Harmonization via Conditional Variational Autoencoder
 
-This is a neural network model for chord inference\melody harmonization\chord progression generation, with controllable params of music perception ( musical tension ). The methodology is based on Spiral Array Theory by Chew.
+This is the dataset repository for the paper: https://doi.org/10.48550/arXiv.2511.14600. The work contains a neural network model for chord inference\melody harmonization\chord progression generation, with controllable params of music perception ( musical tension ). The methodology is based on Spiral Array Theory by Chew. 
 
 ## Modules in this project
 
