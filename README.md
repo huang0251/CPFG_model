@@ -35,7 +35,7 @@ Some modules that use for evaluating & draw are not necessary in basic calculati
 
    1.5 `test.py` includes several functions for test experiments.
 
-2. `Other_Models` folder includes all comparative models with their settings, such as models of MTT experiments, models of Ablation study, and model of Deepbach. Their training scripts and test scripts are the same of that in the `Proposed_Model` folder.
+2. `Comparison_Models` folder includes all comparative models with their settings, such as models of MTT experiments, models of Ablation study, and model of Deepbach. Their training scripts and test scripts are the same of that in the `Proposed_Model` folder.
 
 3. `Subjective_Eval` folder includes experiments on chord progression generation, along with its source audio files and calculation code `run.py` of objective\subjective metrics. The subfolders are described as follows: 
 
